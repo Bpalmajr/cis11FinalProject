@@ -1,4 +1,3 @@
-# Repository For CIS-11 Assembly-Programming - Final
 # LC-3 Bubble Sort Program
 
 This LC-3 assembly language program implements the "Bubble Sort" algorithm to sort 8 user-input numbers (ranging from 00 to 99) in ascending order, and outputs the sorted list onto the console. It utlizes such LC-3 features like subroutines, stack operations, branching, and ASCII conversion.
@@ -51,7 +50,7 @@ This program cannot handle three digit integers and negative integers. This prog
 - Chris Shey Caponpon Enriquez
 
 ### Course Info
-CIS 11 
+CIS 11 - Assembly Programming
 
 Dr. Nguyen
 
