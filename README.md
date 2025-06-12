@@ -30,6 +30,9 @@ This LC-3 assembly language program implements the "Bubble Sort" algorithm to so
 
 ![FlowchartDiagram](https://github.com/user-attachments/assets/bb9438eb-2cae-4d1d-9ff7-278ab21ae156)
 
+### Limitations
+This program cannot handle three digit integers and negative integers. This program is unable to store more than 8 integers.
+
 
 ### Files
 `BubbleSortProgram.asm` - Main LC-3 Source Code
@@ -38,8 +41,6 @@ This LC-3 assembly language program implements the "Bubble Sort" algorithm to so
 
 `Documentation.pdf` -  Project Objective & Flowchart
 
-### Limitations
-This program cannot handle three digit integers and negative integers. This program is unable to store more than 8 integers.
 
 ### Team Members
 **Team Stackers**
