@@ -1,3 +1,10 @@
+;Course: CIS-11-23651
+;Name: Bienvenido Palma Jr
+;Title: Bubble Sort Final Project
+;Date: 2025-06-11
+;Group Members: Zayden Middleton, Chris Shey Caponpon Enriquez
+
+
 .ORIG X3000
 
 ; ------------
