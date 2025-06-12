@@ -38,18 +38,21 @@ This LC-3 assembly language program implements the "Bubble Sort" algorithm to so
 
 `Documentation.pdf` -  Project Objective & Flowchart
 
+### Limitations
+This program cannot handle three digit integers and negative integers. This program is unable to store more than 8 integers.
+
 ### Team Members
 **Team Stackers**
 
-- **Zayden Middleton**
+- Zayden Middleton
 
-- **Bienvenido Palma Jr**
+- Bienvenido Palma Jr
 
-- **Chris Shey Caponpon Enriquez**
+- Chris Shey Caponpon Enriquez
 
 ### Course Info
-**CIS-11 Assembly Programming**
+CIS 11 
 
-**Dr. Nguyen**
+Dr. Nguyen
 
-**6/11/25**
+Due Date: June 12, 2025
